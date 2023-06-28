@@ -1,0 +1,5 @@
+telebot~=0.0.5
+Pillow~=9.5.0
+torch~=2.0.1
+numpy~=1.25.0
+torchvision~=0.15.2
